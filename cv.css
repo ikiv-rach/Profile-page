@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(185,179,175);
+    font-family: "Open Sans"; 
+  }
+
+  .header {
+    background-color: darkcyan;
+    color: #fff;
+    height: 90px;
+    overflow:hidden;
+  }
+  
+  .header-text {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+  .profile-img{
+    width:40%;
+    margin-left: 5%;
+    margin-top:20px;
+    margin-bottom: 20px;
+    
+  }
+  main{
+    background-color: white;
+    width:40%;
+    float:right;
+    margin-right: 5%;
+    margin-top:20px;
+    margin-bottom: 20px;
+    padding:30px;
+    
+  }
+  section{
+    background-color: white;
+    width:80%;
+    margin-left:100px;
+    padding:40px;
+    margin-bottom: 20px;
+    
+  }
+
+ form{
+    background-color: white;
+    width:80%;
+    margin-bottom: 20px;
+    margin-left:100px;
+    padding:40px;
+    text-align:center;
+   
+  }
+  .form-title {
+    font-size: 28px;
+  }
+  
+  input , textarea{
+    width:400px;
+    margin-top:5px;
+    padding:10px;
+    border:1px solid #dee7ec; 
+  }
+  
+  .contact-submit{
+    background-color:#dee7ec;
+    color:#889eab;
+    
+    
+  }
+
+  footer{
+    background-color: darkcyan;
+    height: 90px;
+    padding: 40px;
+    text-align:center;
+   
+  }
+  .icons {
+    padding:20px;
+  }
+  
+ 
+  
